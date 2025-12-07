@@ -1,7 +1,7 @@
 <h1 align="center">😄 WHO AM I ? 😍</h1>
 
 <p align="center">
-  I'm <b>YOUR_NAME</b>, a student who wants to be a <b>DevOps / Backend / Whatever Engineer!</b> 💻<br/>
+  I'm <b>SeongJunKIm</b>, a student who wants to be a <b>DevOps / Backend / Whatever Engineer!</b> 💻<br/>
   I love learning new technologies and building cool stuff.
 </p>
 
