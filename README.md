@@ -55,7 +55,6 @@
 ---
 
 <p align="center">
-  🔭 Currently learning: <b>Docker, Kubernetes, CI/CD</b> <br/>
-  💬 Ask me about: <b>Linux, Networking, Automation</b> <br/>
-  📫 How to reach me: <b>YOUR_EMAIL@example.com</b>
+  🔭 Currently learning: <b>c++, Kubernetes, CI/CD</b> <br/>
+  📫 How to reach me: <b>eog79859@gmail.com</b>
 </p>
