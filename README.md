@@ -1,21 +1,55 @@
-##
+<h1 align="center">😄 WHO AM I ? 😍</h1>
 
+<p align="center">
+  I'm <b>YOUR_NAME</b>, a student who wants to be a <b>DevOps / Backend / Whatever Engineer!</b> 💻<br/>
+  I love learning new technologies and building cool stuff.
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimikimim&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimikimim&layout=compact)
+---
 
+<h2 align="center">🛠 The technology and programs I use 💻</h2>
 
-<!--
-**kimikimim/kimikimim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Infra / Network -->
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- OS -->
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Languages / Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📚 Blogs and Social Pages</h2>
+
+<p align="center">
+  <a href="YOUR_BLOG_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Archive%20of%20YOUR_NAME-0ea5e9?style=for-the-badge&logo=icloud&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🔭 Currently learning: <b>Docker, Kubernetes, CI/CD</b> <br/>
+  💬 Ask me about: <b>Linux, Networking, Automation</b> <br/>
+  📫 How to reach me: <b>YOUR_EMAIL@example.com</b>
+</p>
